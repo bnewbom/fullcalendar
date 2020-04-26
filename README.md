@@ -9,10 +9,6 @@ This is a fully-buildable example project for [FullCalendar Scheduler] and [Type
 ## Installation
 
 ```bash
-git clone https://github.com/fullcalendar/fullcalendar-example-projects.git
-cd fullcalendar-example-projects/typescript-scheduler
-npm install
-```
 
 ## Build Commands
 
